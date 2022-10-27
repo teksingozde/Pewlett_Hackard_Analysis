@@ -33,6 +33,9 @@ The data sets we want to create;
 - unique_titles.csv
 
 The outputs of these datasets are in the "Outputs" folder, with the first 12 lines being displayed.
+
+## Results
+
 Tables obtained as a result of SQL outputs are shown below.
 
 #### Table 1. Current Employee
@@ -52,8 +55,6 @@ Tables obtained as a result of SQL outputs are shown below.
 
 #### Table 6. Unique Titles 
 <img width="496" alt="Screen Shot 2022-10-27 at 6 35 36 PM" src="https://user-images.githubusercontent.com/26927158/198417944-89f05fe1-c96d-4e94-a99e-0c0988a3eebc.png">
-
-## Results
 
 - The fact that there are two managers who are expected to retire indicates the low number of managers in general. The retirement of even two executives means a huge potential loss for the company. Because less manager means more responsibility of every manager.
 
