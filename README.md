@@ -36,10 +36,23 @@ The outputs of these datasets are in the "Outputs" folder, with the first 12 lin
 Tables obtained as a result of SQL outputs are shown below.
 
 #### Table 1. Current Employee
-
 ![current_emp](https://user-images.githubusercontent.com/26927158/198416312-141e0a28-ce7d-441c-bca1-bec66072895a.png)
 
-#### Table 2. 
+#### Table 2. Mentordship Eligibility
+<img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417495-77c87270-cc8b-4384-8a4f-b1da9ef6dd76.png">
+
+#### Table 3.
+<img width="733" alt="Screen Shot 2022-10-27 at 6 34 30 PM" src="https://user-images.githubusercontent.com/26927158/198417836-c5752d76-48e4-4215-8c93-bc9df19f0926.png">
+
+#### Table 4. 
+<img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417872-e930de55-0d37-4275-b0bb-b55700d0787e.png">
+
+#### Table 5. 
+<img width="249" alt="Screen Shot 2022-10-27 at 6 35 20 PM" src="https://user-images.githubusercontent.com/26927158/198417910-d9748020-dec3-435e-b693-55ccbd0083ca.png">
+
+#### Table 6. 
+<img width="496" alt="Screen Shot 2022-10-27 at 6 35 36 PM" src="https://user-images.githubusercontent.com/26927158/198417944-89f05fe1-c96d-4e94-a99e-0c0988a3eebc.png">
+
 ## Results
 
 - The fact that there are two managers who are expected to retire indicates the low number of managers in general. The retirement of even two executives means a huge potential loss for the company. Because less manager means more responsibility of every manager.
