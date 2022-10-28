@@ -61,8 +61,11 @@ The table above is similar to table 3, and in table 3, the titles and dates of e
 #### Table 5. Retiring Titles 
 <img width="249" alt="Screen Shot 2022-10-27 at 6 35 20 PM" src="https://user-images.githubusercontent.com/26927158/198417910-d9748020-dec3-435e-b693-55ccbd0083ca.png">
 
+Table 4 is in the form of retirement titles, and as seen in the table, these titles are mostly found in Senior Engineer and Senior Staff titles. It is also noteworthy that 2 people are in the title of manager. It is a separate issue with the scarcity of employees with managerial titles and the accumulation of senior engineers and senior staff employees in terms of titles.
+
 #### Table 6. Unique Titles 
 <img width="496" alt="Screen Shot 2022-10-27 at 6 35 36 PM" src="https://user-images.githubusercontent.com/26927158/198417944-89f05fe1-c96d-4e94-a99e-0c0988a3eebc.png">
+
 
 - The fact that there are two managers who are expected to retire indicates the low number of managers in general. The retirement of even two executives means a huge potential loss for the company. Because less manager means more responsibility of every manager.
 
