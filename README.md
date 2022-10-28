@@ -38,7 +38,7 @@ The outputs of these datasets are in the "Outputs" folder, with the first 14 row
 
 Tables obtained as a result of SQL outputs are shown below.
 
-#### Table 1. Current Employee
+#### Table 1. Current Employees
 <img width="452" alt="Screen Shot 2022-10-27 at 6 47 32 PM" src="https://user-images.githubusercontent.com/26927158/198418085-ebc0a83c-90b8-4fe3-ae90-6884d961e64c.png">
 
 Above is the current employee table. The first 14 rows of each table are included. In the table, the number of the employee, first name and last name and the year they will work are included. The fact that the dates in all of them are 9999-01-01 is due to the fact that the dates they will retire and leave the job are not certain.
@@ -48,8 +48,10 @@ Above is the current employee table. The first 14 rows of each table are include
 
 In the mentorship eligibility table, candidates who are eligible for mentorship are shown. The employee number, first name, last name, date of birth, the date they started, the date their employment will end, and the title information of these people are included. Looking at the table, it can be clearly said that there are generally senior employees and that titles such as senior engineer, engineer, technical leader, assistant engineer, staff are mostly in the top 14 positions.
 
-#### Table 3. Retirement Info
+#### Table 3. Retirement Information
 <img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417495-77c87270-cc8b-4384-8a4f-b1da9ef6dd76.png">
+
+Table 3 is included as the retirement information table. In this table, a study of people who have the potential to retire is made. Looking at the table, employee number, first name and last name information are included.
 
 #### Table 4. Retirement Titles 
 <img width="664" alt="Screen Shot 2022-10-27 at 7 06 07 PM" src="https://user-images.githubusercontent.com/26927158/198419790-facb3d62-3854-4c16-bdb1-c18d6c7c98e7.png">
