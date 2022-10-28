@@ -46,6 +46,8 @@ Above is the current employee table. The first 14 rows of each table are include
 #### Table 2. Mentorship Eligibility
 <img width="733" alt="Screen Shot 2022-10-27 at 6 34 30 PM" src="https://user-images.githubusercontent.com/26927158/198417836-c5752d76-48e4-4215-8c93-bc9df19f0926.png">
 
+In the mentorship eligibility table, candidates who are eligible for mentorship are shown. The employee number, first name, last name, date of birth, the date they started, the date their employment will end, and the title information of these people are included. Looking at the table, it can be clearly said that there are generally senior employees and that titles such as senior engineer, engineer, technical leader, assistant engineer, staff are mostly in the top 14 positions.
+
 #### Table 3. Retirement Info
 <img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417495-77c87270-cc8b-4384-8a4f-b1da9ef6dd76.png">
 
