@@ -42,10 +42,10 @@ Tables obtained as a result of SQL outputs are shown below.
 <img width="452" alt="Screen Shot 2022-10-27 at 6 47 32 PM" src="https://user-images.githubusercontent.com/26927158/198418085-ebc0a83c-90b8-4fe3-ae90-6884d961e64c.png">
 
 #### Table 2. Mentorship Eligibility
-<img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417495-77c87270-cc8b-4384-8a4f-b1da9ef6dd76.png">
+<img width="733" alt="Screen Shot 2022-10-27 at 6 34 30 PM" src="https://user-images.githubusercontent.com/26927158/198417836-c5752d76-48e4-4215-8c93-bc9df19f0926.png">
 
 #### Table 3. Retirement Info
-<img width="733" alt="Screen Shot 2022-10-27 at 6 34 30 PM" src="https://user-images.githubusercontent.com/26927158/198417836-c5752d76-48e4-4215-8c93-bc9df19f0926.png">
+<img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417495-77c87270-cc8b-4384-8a4f-b1da9ef6dd76.png">
 
 #### Table 4. Retirement Titles 
 <img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417872-e930de55-0d37-4275-b0bb-b55700d0787e.png">
