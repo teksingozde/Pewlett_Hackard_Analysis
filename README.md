@@ -66,14 +66,21 @@ Table 4 is in the form of retirement titles, and as seen in the table, these tit
 #### Table 6. Unique Titles 
 <img width="496" alt="Screen Shot 2022-10-27 at 6 35 36 PM" src="https://user-images.githubusercontent.com/26927158/198417944-89f05fe1-c96d-4e94-a99e-0c0988a3eebc.png">
 
+The table of unique titles can also be obtained from the table of employees with the most pension titles in the first 4 rows, as can be seen in table 5. These unique titles
+- Senior Engineer,
+- Senior Staff,
+- Engineer,
+- Staff
+is in the form.
+The above table also includes the information of employees with unique titles.
+
+## Summary
 
 - The fact that there are two managers who are expected to retire indicates the low number of managers in general. The retirement of even two executives means a huge potential loss for the company. Because less manager means more responsibility of every manager.
 
 - The Company includes 25,916 Senior Engineers and 24,926 Senior Personnel, who are expected to retire. These numbers are very high, and so many people suddenly retiring will mean that business is often disrupted. For this, promotion policies need to be rearranged and new jobs must be purchased.
 
 - When necessary analyzes are made for mentoring; Senior Engineers work as Engineers, Technical Leaders and Senior Staff, and they are usually in pretty good positions. However, if they are new, their potential to mentor in scholars and promotion situations is also high.
-
-## Summary
 
 - Three departments with an average desk of over $50,000 are Finance, Marketing and Sales. Employees in the Development, Human Resources, Production and Customer service departments earn an average salary of $40,000.
 
