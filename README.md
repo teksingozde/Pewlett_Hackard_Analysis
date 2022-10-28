@@ -48,7 +48,7 @@ Tables obtained as a result of SQL outputs are shown below.
 <img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417495-77c87270-cc8b-4384-8a4f-b1da9ef6dd76.png">
 
 #### Table 4. Retirement Titles 
-<img width="372" alt="Screen Shot 2022-10-27 at 6 34 46 PM" src="https://user-images.githubusercontent.com/26927158/198417872-e930de55-0d37-4275-b0bb-b55700d0787e.png">
+<img width="664" alt="Screen Shot 2022-10-27 at 7 06 07 PM" src="https://user-images.githubusercontent.com/26927158/198419790-facb3d62-3854-4c16-bdb1-c18d6c7c98e7.png">
 
 #### Table 5. Retiring Titles 
 <img width="249" alt="Screen Shot 2022-10-27 at 6 35 20 PM" src="https://user-images.githubusercontent.com/26927158/198417910-d9748020-dec3-435e-b693-55ccbd0083ca.png">
