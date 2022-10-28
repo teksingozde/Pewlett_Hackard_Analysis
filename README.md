@@ -56,6 +56,8 @@ Table 3 is included as the retirement information table. In this table, a study 
 #### Table 4. Retirement Titles 
 <img width="664" alt="Screen Shot 2022-10-27 at 7 06 07 PM" src="https://user-images.githubusercontent.com/26927158/198419790-facb3d62-3854-4c16-bdb1-c18d6c7c98e7.png">
 
+The table above is similar to table 3, and in table 3, the titles and dates of employees working in positions suitable for retirement can be seen from the first time they started. To give one more piece of information, it is seen that the dates of retirement are included in the lines 2, 5, 7, 8, 10 and 11, which also include the information of the people who have retired. Others are those who will potentially retire.
+
 #### Table 5. Retiring Titles 
 <img width="249" alt="Screen Shot 2022-10-27 at 6 35 20 PM" src="https://user-images.githubusercontent.com/26927158/198417910-d9748020-dec3-435e-b693-55ccbd0083ca.png">
 
