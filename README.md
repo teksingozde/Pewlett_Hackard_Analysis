@@ -32,7 +32,7 @@ The data sets we want to create;
 - retiring_titles.csv
 - unique_titles.csv
 
-The outputs of these datasets are in the "Outputs" folder, with the first 12 lines being displayed.
+The outputs of these datasets are in the "Outputs" folder, with the first 14 lines being displayed.
 
 ## Results
 
