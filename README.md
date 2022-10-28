@@ -32,7 +32,7 @@ The data sets we want to create;
 - retiring_titles.csv
 - unique_titles.csv
 
-The outputs of these datasets are in the "Outputs" folder, with the first 14 lines being displayed.
+The outputs of these datasets are in the "Outputs" folder, with the first 14 rows being displayed.
 
 ## Results
 
@@ -40,6 +40,8 @@ Tables obtained as a result of SQL outputs are shown below.
 
 #### Table 1. Current Employee
 <img width="452" alt="Screen Shot 2022-10-27 at 6 47 32 PM" src="https://user-images.githubusercontent.com/26927158/198418085-ebc0a83c-90b8-4fe3-ae90-6884d961e64c.png">
+
+Above is the current employee table. The first 14 rows of each table are included. In the table, the number of the employee, first name and last name and the year they will work are included. The fact that the dates in all of them are 9999-01-01 is due to the fact that the dates they will retire and leave the job are not certain.
 
 #### Table 2. Mentorship Eligibility
 <img width="733" alt="Screen Shot 2022-10-27 at 6 34 30 PM" src="https://user-images.githubusercontent.com/26927158/198417836-c5752d76-48e4-4215-8c93-bc9df19f0926.png">
